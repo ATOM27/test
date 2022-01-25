@@ -30,6 +30,7 @@ struct ContentView: View {
             Text("newFeature 2")
             Text("newFeature 3")
             Text("newFeature 4")
+            Text("newFeature 4")
 
         }
     }
