@@ -22,6 +22,7 @@ struct ContentView: View {
                 print("")
             }
             Image(systemName: "star")
+            Text("And another feature")
         }
     }
 }
