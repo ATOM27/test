@@ -21,6 +21,9 @@ struct ContentView: View {
             Button("Anotehr button") {
                 print("")
             }
+            Button("Anotehr button") {
+                print("")
+            }
         }
     }
 }
