@@ -12,6 +12,9 @@ struct ContentView: View {
         Text("Hello, world!")
             .padding()
             .font(.body)
+        Button("Some title") {
+            print("No Action")
+        }
     }
 }
 
