@@ -24,6 +24,7 @@ struct ContentView: View {
             Button("Anotehr button") {
                 print("")
             }
+            Text("asdasd")
         }
     }
 }
