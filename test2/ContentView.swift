@@ -18,6 +18,9 @@ struct ContentView: View {
         }
         .padding()
             Text("And another feature")
+            Button("Anotehr button") {
+                print("")
+            }
         }
     }
 }
