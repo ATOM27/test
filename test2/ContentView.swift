@@ -28,6 +28,8 @@ struct ContentView: View {
             Text("newFeature")
             Text("newMain")
             Text("newFeature 2")
+            Text("newFeature 3")
+            Text("newFeature 4")
         }
     }
 }
