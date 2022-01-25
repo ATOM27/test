@@ -24,6 +24,9 @@ struct ContentView: View {
             Text("And another feature")
             Text("And another feature")
             Text("And another feature")
+            Button("Anotehr button") {
+                print("")
+            }
         }
     }
 }
