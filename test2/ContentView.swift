@@ -21,18 +21,6 @@ struct ContentView: View {
             Button("Anotehr button") {
                 print("")
             }
-            Button("Anotehr button") {
-                print("")
-            }
-            Button("Anotehr button") {
-                print("")
-            }
-            Text("And another feature")
-            Text("And another feature")
-            Text("And another feature")
-            Text("And another feature")
-            Image(systemName: "star")
-
         }
     }
 }
