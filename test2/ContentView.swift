@@ -18,6 +18,7 @@ struct ContentView: View {
         }
         .padding()
             Text("And another feature")
+            Text("asdasd")
         }
     }
 }
