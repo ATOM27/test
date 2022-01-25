@@ -27,6 +27,7 @@ struct ContentView: View {
             Text("asdasd")
             Text("newFeature")
             Text("newMain")
+            Text("newFeature")
         }
     }
 }
