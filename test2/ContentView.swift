@@ -21,12 +21,6 @@ struct ContentView: View {
             Button("Anotehr button") {
                 print("")
             }
-            Button("Anotehr button") {
-                print("")
-            }
-            Text("asdasd")
-            Text("newFeature")
-            Text("newMain")
             Text("newFeature 2")
             Text("newFeature 3")
             Text("newFeature 4")
