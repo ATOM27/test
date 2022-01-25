@@ -16,6 +16,8 @@ struct ContentView: View {
         Button("Some title") {
             print("No Action")
         }
+        .padding()
+            Text("And another feature")
         }
     }
 }
