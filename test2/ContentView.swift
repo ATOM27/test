@@ -25,6 +25,7 @@ struct ContentView: View {
                 print("")
             }
             Text("asdasd")
+            Text("newMain")
         }
     }
 }
