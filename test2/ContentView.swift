@@ -15,6 +15,7 @@ struct ContentView: View {
             .font(.body)
         Button("Some title") {
             print("No Action")
+            
         }
         }
     }
