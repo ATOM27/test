@@ -31,7 +31,7 @@ struct ContentView: View {
             Image(systemName: "star")
             Image(systemName: "star")
             Image(systemName: "star")
-
+            Text("And another feature")
         }
     }
 }
